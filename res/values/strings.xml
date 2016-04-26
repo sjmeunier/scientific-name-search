@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scientific Name Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_about">About</string>
+    <string name="common_name_contains">Common name contains</string>
+    <string name="common_name_starts_with">Common name starts with</string>
+    <string name="common_name_ends_with">Common name ends with</string>
+    <string name="scientific_name_contains">Scientific name contains</string>
+    <string name="scientific_name_starts_with">Scientific name starts with</string>
+    <string name="scientific_name_ends_with">Scientific name ends with</string>
+    <string name="search_button">Search</string>
+    <string name="no_results_found">No results found</string>
+
+</resources>
